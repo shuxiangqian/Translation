@@ -2,7 +2,7 @@
 
 # PX4系统控制台
 
-系统控制台允许在底层使用系统，调试输出并且分析系统启动过程 . The most convenient way to connect it is by using a [Dronecode probe](http://nicadrone.com/index.php?id_product=65&controller=product), but a plain FTDI cable can be used as well.
+系统控制台允许在底层使用系统，调试输出并且分析系统启动过程 . 连接系统最方便的方式是使用 [Dronecode probe](http://nicadrone.com/index.php?id_product=65&controller=product), 但是同样也可以使用FTDI线 .
 
 ## System Console vs. Shell
 
