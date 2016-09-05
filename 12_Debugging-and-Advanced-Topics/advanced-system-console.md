@@ -4,9 +4,9 @@
 
 系统控制台允许在底层使用系统，调试输出并且分析系统启动过程 . 连接系统最方便的方式是使用 [Dronecode probe](http://nicadrone.com/index.php?id_product=65&controller=product), 但是同样也可以使用FTDI线 .
 
-## System Console vs. Shell
+## 系统控制台 vs. Shell
 
-There are multiple shells, but only one console: The system console is the location where all boot output (and applications auto-started on boot) is printed.
+系统有多个shell,但是只有一个控制台: The system console is the location where all boot output (and applications auto-started on boot) is printed.
 
 - System console (first shell): Hardware serial port
 - Additional shells: Pixhawk on USB (e.g. lists as /dev/tty.usbmodem1 on Mac OS)
